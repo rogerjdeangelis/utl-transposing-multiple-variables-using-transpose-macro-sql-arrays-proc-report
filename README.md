@@ -1,4 +1,4 @@
-# utl-transposing-mutiple-variables-using-transpose-macro-sql-arrays-proc-report
+# utl-transposing-multiple-variables-using-transpose-macro-sql-arrays-proc-report
 Transposing multiple variables using transpose macro sql arrays proc report.
 
     Transposing muliple variables using transpose macro sql arrays proc report                                              
