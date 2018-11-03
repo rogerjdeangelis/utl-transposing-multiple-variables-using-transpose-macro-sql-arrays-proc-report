@@ -40,10 +40,10 @@ EXAMPLE OUTPUT
                                                                                                                      
  WORK.WANT total obs=2                                                                                               
                                                                                                                      
- AMOUNT1    AMOUNT2    AMOUNT3    COUNT1    COUNT2    COUNT3                                                         
+ ID   AMOUNT1    AMOUNT2    AMOUNT3    COUNT1    COUNT2    COUNT3                                                         
                                                                                                                      
-  100000     403000     230000       4         7         3                                                           
-   40000      90600      20000       2         1         2                                                           
+111    100000     403000     230000       4         7         3                                                           
+222     40000      90600      20000       2         1         2                                                           
                                                                                                                      
                                                                                                                      
 PROCESS                                                                                                              
